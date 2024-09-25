@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ubieto"
+  given-names: "Víctor"
+title: "A novel Learning Database for Sign Language Animation Synthesis from Quaternion estimations"
+date-released: 2022-09-21
+url: "https://github.com/victorubieto/L4AAA/blob/main/MasterThesis.pdf"
